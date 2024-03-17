@@ -1,0 +1,13 @@
+Vivado Simulator 2016.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/xilinx/Vivado/2016.1/bin/unwrapped/win64.o/xelab.exe -wto c4b8bfdb27ae40cbacd82d10f69a188b --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot aircon_sim_behav xil_defaultlib.aircon_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.aircon
+Compiling module xil_defaultlib.aircon_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot aircon_sim_behav
